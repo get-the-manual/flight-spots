@@ -46,7 +46,7 @@ extra:
       We use cookies for analytics. By clicking “Accept,” you help us improve our documentation.
 
 nav:
-  - Главная страница: index.md
+  - Main Page: index.md
   - Estonia:
     - Drones: Estonia/Drones.md
     - Whoops: Estonia/Whoops.md
